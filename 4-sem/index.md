@@ -21,6 +21,12 @@ ________________________________________________________________________________
 ### [Лабораторная работа 5-6(2)](https://replit.com/@egorchalapko/sem4-t1-lr5-1#main.py)
 ### [Лабораторная работа 5-6(3)](https://replit.com/@egorchalapko/sem4-t1-lr5-2#main.py)
 
+### ЛР 7-8:[Информация о ЛР](https://replit.com/@zhukov/sem4-t1-lr5-in-memory#main.py)
+### [Лабораторная работа 7-8(1)](https://replit.com/@egorchalapko/sem4-t1-lr7-1#main.py)
+### [Лабораторная работа 7-8(2)](https://replit.com/@egorchalapko/LabWork8ProG#ExampleUsingDatabase.py)
+
+### ЛР 9:
+### [Лабораторная работа 9](https://replit.com/@egorchalapko/LR-9-PROG#main.py)
 
 ___________________________________________________________________________________
 ## Самостоятельные работы
