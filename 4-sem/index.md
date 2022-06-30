@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ### [Work with Json](https://replit.com/@egorchalapko/PROG-4-work-with-JSON-1#main.py)
 
 ### ЛР 4:
-###[Сайт на Lektor на GHpages](https://egorchalapko.github.io/EgorChalapkoCP.github.io/)
+### [Сайт на Lektor на GHpages](https://egorchalapko.github.io/EgorChalapkoCP.github.io/)
 
 ### ЛР 5-6: [Информация о ЛР](https://replit.com/@zhukov/sem4-t1-lr5-2#main.py)
 ### [Лабораторная работа 5-6(1)](https://replit.com/@egorchalapko/sem4-t1-lr5#main.py)
