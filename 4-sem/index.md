@@ -13,7 +13,8 @@ ________________________________________________________________________________
 ### [Лабораторная работа 3](https://colab.research.google.com/drive/11LBnSCyqz1RtZuCJlNXVSgdpK5uLgEPd?usp=sharing)
 
 ### ЛР ?: Work with Json
-Реализовать следущее: Считывание и загрузка json;  Вывод данных из json на экран с pprint; Сохранение полученных данных в json-файл; Добавление данных о пользователях с клавиатуры;
+Реализовать следущее: Считывание и загрузка json;  Вывод данных из json на экран с pprint; Сохранение полученных данных в json-файл; Добавление данных о пользователях с клавиатуры.
+
 ###[Work with Json](https://replit.com/@egorchalapko/PROG-4-work-with-JSON-1#main.py)
 
 ### ЛР 5-6: [Информация о ЛР](https://replit.com/@zhukov/sem4-t1-lr5-2#main.py)
