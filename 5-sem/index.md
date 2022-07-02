@@ -32,7 +32,7 @@ ________________________________________________________________________________
 ### Still pending
 
 ### ЛР 9: Визуализация курсов валют
-### Still pending, excpect [here](https://colab.research.google.com/drive/1qXLB5qT0mgPvLAjU7-Q0D5U67MRN8PDv?usp=sharing)
+### [Лабораторная работа 9](https://replit.com/@egorchalapko/LW-9#main.py)
 ___________________________________________________________________________________
 ## Самостоятельные работы
 =(
