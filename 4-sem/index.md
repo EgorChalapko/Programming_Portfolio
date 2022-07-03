@@ -33,4 +33,12 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________
 ## Самостоятельные работы
-=(
+
+## ИСР
+### [Программирование 4 семестр. ИСР 1](https://github.com/EgorChalapko/Programming_Portfolio/blob/gh-pages/4-sem/%D0%98%D0%A1%D0%A04/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%204%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80.%20%D0%98%D0%A1%D0%A0%201%20%D0%A7%D0%B0%D0%BB%D0%B0%D0%BF%D0%BA%D0%BE%20%D0%95.%20%D0%92..docx)
+### [Программирование 4 семестр. ИСР 2](https://github.com/EgorChalapko/Programming_Portfolio/blob/gh-pages/4-sem/%D0%98%D0%A1%D0%A04/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%204%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80.%20%D0%98%D0%A1%D0%A0%202%20%D0%A7%D0%B0%D0%BB%D0%B0%D0%BF%D0%BA%D0%BE%20%D0%95.%20%D0%92..docx)
+### [Программирование 4 семестр. ИСР 4](https://github.com/EgorChalapko/Programming_Portfolio/blob/gh-pages/4-sem/%D0%98%D0%A1%D0%A04/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%204%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80.%20%D0%98%D0%A1%D0%A0%204%20%D0%A7%D0%B0%D0%BB%D0%B0%D0%BF%D0%BA%D0%BE%20%D0%95.%20%D0%92..docx)
+
+## ВСР
+### [Программирование 4 семестр. ВСР 1](https://github.com/EgorChalapko/Programming_Portfolio/blob/gh-pages/4-sem/%D0%92%D0%A1%D0%A04/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%204%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80.%20%D0%92%D0%A1%D0%A0%201%20%D0%A7%D0%B0%D0%BB%D0%B0%D0%BF%D0%BA%D0%BE%20%D0%95.%20%D0%92..docx)
+### [Программирование 4 семестр. ВСР 2](https://github.com/EgorChalapko/Programming_Portfolio/blob/gh-pages/4-sem/%D0%92%D0%A1%D0%A04/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%204%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80.%20%D0%92%D0%A1%D0%A0%202%20%D0%A7%D0%B0%D0%BB%D0%B0%D0%BF%D0%BA%D0%BE%20%D0%95.%20%D0%92..docx)
