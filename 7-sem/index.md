@@ -43,4 +43,9 @@ ________________________________________________________________________________
 ### [Лабораторная работа 6](https://colab.research.google.com/drive/1FD3RGyBMWW1B4mWOXRQtyZ1CMJEeMDL0?usp=sharing)
 
 ### ЛР 7: [Пояснение](https://replit.com/@zhukov/prog7-t3-lr7#simpleapp.py)
-### [Лабораторная работа 7](https://replit.com/@egorchalapko/prog7-t3-lr7-1#simpleapp.py)
+### [Лабораторная работа 7. Приложение](https://replit.com/@egorchalapko/prog7-t3-lr7-1#simpleapp.py)
+### [Лабораторная работа 7. ДокерХаб](https://hub.docker.com/layers/greggoryrulz/my_repo/latest/images/sha256-ea8ec241f47e153df588cc637ac9abd3e7f6fa07d62816569e1214a9b66d3e68?context=repo)
+
+### ЛР 8: [Пояснение](https://replit.com/@zhukov/prog7-t3-lr8#app.py)
+### [Лабораторная работа 8. Приложение](https://replit.com/@egorchalapko/prog7-t3-lr8#app.py)
+### [Лабораторная работа 8. ДокерХаб](https://hub.docker.com/repository/docker/greggoryrulz/dbwork/general)
