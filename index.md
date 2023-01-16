@@ -7,3 +7,4 @@
 ## [4 семестр](/Programming_Portfolio/4-sem)
 ## [5 семестр](/Programming_Portfolio/5-sem)
 ## [6 семестр](/Programming_Portfolio/6-sem)
+## [7 семестр](/Programming_Portfolio/7-sem)
