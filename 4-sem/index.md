@@ -1,11 +1,4 @@
-<nav>
-  <ul>
-    <li><a href="#" class="btn btn-github">Главная</a></li>
-    <li><a href="#" class="btn btn-github">О нас</a></li>
-    <li><a href="#"class="btn btn-github">Услуги</a></li>
-    <li><a href="#"class="btn btn-github">Контакты</a></li>
-  </ul>
-</nav>
+
 # 4 Семестр
 ### Здесь будут хранится работы за 4 семестр
 ___________________________________________________________________________________
